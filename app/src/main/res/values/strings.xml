@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">MiNuevaGranApp</string>
+    <string name="app_name">Mi Super App</string>
     <string name="titulo_aplicacion">Mi primera Aplicacion</string>
     <string name="actividad2">Actividad2</string>
     <string name="fragment_tabhost">Fragment Tabhost</string>
