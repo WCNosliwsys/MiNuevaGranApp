@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MiNuevaGranApp</string>
+    <string name="titulo_aplicacion">Mi primera Aplicacion</string>
+    <string name="actividad2">Actividad2</string>
+    <string name="fragment_tabhost">Fragment Tabhost</string>
+    <string name="manipulando">Manipulando Elementos por Codigo</string>
+    <string name="recycler">Recycler View</string>
+    <string name="end">Salir</string>
+    <string name="Spinner">Mi Gran Spinner</string>
+    <string name="acercaDe">Acerca De</string>
+    <string name="midialogo">Mi Dialogo</string>
+</resources>

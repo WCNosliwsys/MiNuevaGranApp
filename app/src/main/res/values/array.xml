@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="animals">
+        <item>Perro</item>
+        <item>Gato</item>
+        <item>Gallina</item>
+        <item>Vaca</item>
+        <item>Cordero</item>
+        <item>Cuy</item>
+    </string-array>
+</resources>
